@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {
+      "movie": "Avengers",
+      "year": 2012,
+      "rating": 7.8,
+      "duration": "141 min",
+      "director": "Joss Whedon",
+      "tagline": "A new age begins"
+       }
+    ]
+}
